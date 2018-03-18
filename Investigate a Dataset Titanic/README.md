@@ -26,8 +26,6 @@ Know how to use Matplotlib to produce plots showing your findings.
 
 了解如何调查数据集中的问题并将数据转换为可以使用的格式。
 
-有实践传达你的分析结果。
-
 能够在NumPy和Pandas中使用矢量化操作来加速数据分析代码。
 
 熟悉Pandas的Series和DataFrame对象，这些对象可以让您更方便地访问数据。
